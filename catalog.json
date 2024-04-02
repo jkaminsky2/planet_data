@@ -1,0 +1,18 @@
+{
+  "type": "Catalog",
+  "id": "3d8c324f-2d83-43b3-8322-8bf4c391de51",
+  "stac_version": "1.0.0",
+  "description": "San Diego Test Data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./SkySatCollect/SkySatCollect_collection.json",
+      "type": "application/json"
+    }
+  ]
+}
